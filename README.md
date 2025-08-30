@@ -1,4 +1,4 @@
-# Intern Workshop App
+# AI Intern Workshop App
 
 A polished Flask app with Bootstrap that demonstrates containerization and CI/CD with GitHub Actions.
 
